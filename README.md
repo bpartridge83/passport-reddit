@@ -87,7 +87,7 @@ For a complete, working example, refer to the [login example](https://github.com
     $ npm install --dev
     $ make test
 
-[![Build Status](https://secure.travis-ci.org/Slotos/passport-reddit.png)](http://travis-ci.org/Slotos/passport-reddit)
+[![Build Status](https://secure.travis-ci.org/bpartridge83/passport-reddit.png)](http://travis-ci.org/bpartridge83/passport-reddit)
 
 ## Credits
 
